@@ -1,5 +1,5 @@
 ## Pre-requisites
-You need SFML installed. If you are on a Linux machine, simple run `sudo apt-get install libsfml-dev` in your terminal. For other OS, please see how to install SFML from here --> https://www.sfml-dev.org/tutorials/2.5/
+You need SFML installed. If you are on Ubuntu, simply run `sudo apt-get install libsfml-dev` in your terminal. For other OS, please see how to install SFML from here --> https://www.sfml-dev.org/tutorials/2.5/
 
 ## Build Instructions
 
